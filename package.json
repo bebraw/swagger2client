@@ -4,9 +4,14 @@
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.0.0",
   "dependencies": {
+    "annofp": "^0.3.0",
+    "annostring": "^0.2.2",
+    "annozip": "^0.2.4",
+    "axios": "^0.4.2",
+    "change-case": "^2.2.0",
+    "resolve-swagger-refs": "^0.1.2"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bebraw/swagger2client.git"
@@ -15,7 +20,10 @@
   "bugs": {
     "url": "https://github.com/bebraw/swagger2client/issues"
   },
-  "keywords": ["swagger"],
+  "main": "./index.js",
+  "keywords": [
+    "swagger"
+  ],
   "licenses": [
     {
       "type": "MIT",
