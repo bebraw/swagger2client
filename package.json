@@ -1,0 +1,25 @@
+{
+  "name": "swagger2client",
+  "description": "Client for Swagger 2.0",
+  "author": "Juho Vepsalainen <bebraw@gmail.com>",
+  "version": "0.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebraw/swagger2client.git"
+  },
+  "homepage": "https://github.com/bebraw/swagger2client",
+  "bugs": {
+    "url": "https://github.com/bebraw/swagger2client/issues"
+  },
+  "keywords": ["swagger"],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bebraw/swagger2client/blob/master/LICENSE"
+    }
+  ]
+}
