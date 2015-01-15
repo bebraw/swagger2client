@@ -9,7 +9,7 @@
     "annozip": "^0.2.4",
     "axios": "^0.4.2",
     "change-case": "^2.2.0",
-    "resolve-swagger-refs": "^0.1.2"
+    "resolve-swagger-refs": "^0.1.3"
   },
   "devDependencies": {},
   "repository": {
