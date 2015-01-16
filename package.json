@@ -2,7 +2,7 @@
   "name": "swagger2client",
   "description": "Client for Swagger 2.0",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "annofp": "0.4.1",
     "annostring": "0.3.0",
